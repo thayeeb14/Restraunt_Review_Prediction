@@ -1,0 +1,8 @@
+numpy
+joblib
+pandas
+imblearn
+imbalanced-learn
+scikit-learn
+xgboost
+Flask
